@@ -42,7 +42,7 @@ To run this project locally, you need to have Python and pip installed on your m
 
 1. Clone this repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/2001J/FastAPI-Events-Management-API
    ```
 
 2. Navigate into the project directory:

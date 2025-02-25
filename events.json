@@ -1,0 +1,102 @@
+[
+    {
+        "id": 1,
+        "name": "test1",
+        "date": "2024-03-06",
+        "organizer": {
+            "name": "fdev",
+            "email": "fdev@example.com"
+        },
+        "status": "active",
+        "type": "test",
+        "joiners": [
+            {
+                "name": "Hasan1",
+                "email": "test@test.com",
+                "country": "Azerbaijan"
+            }
+        ],
+        "location": "Budapest, Hungary",
+        "max_attendees": 100
+    },
+    {
+        "id": 2,
+        "name": "test1",
+        "date": "2024-03-06",
+        "organizer": {
+            "name": "fdev",
+            "email": "fdev@example.com"
+        },
+        "status": "active",
+        "type": "test",
+        "location": "Budapest, Hungary",
+        "max_attendees": 100,
+        "joiners": [
+            {
+                "name": "Hasan1",
+                "email": "test@test.com",
+                "country": "Azerbaijan"
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "name": "Python lab 6",
+        "date": "Kedd",
+        "organizer": {
+            "name": "string",
+            "email": "string"
+        },
+        "status": "string",
+        "type": "string",
+        "location": "string",
+        "max_attendees": 0,
+        "joiners": [
+            {
+                "name": "string",
+                "email": "string",
+                "country": "string"
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "name": "string",
+        "date": "string",
+        "organizer": {
+            "name": "string",
+            "email": "string"
+        },
+        "status": "string",
+        "type": "string",
+        "location": "string",
+        "max_attendees": 0,
+        "joiners": [
+            {
+                "name": "string",
+                "email": "string",
+                "country": "string"
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "name": "Maribor",
+        "date": "Msc, Phd",
+        "organizer": {
+            "name": "Erasmus",
+            "email": "string"
+        },
+        "status": "string",
+        "type": "string",
+        "location": "string",
+        "max_attendees": 0,
+        "joiners": [
+            {
+                "name": "string",
+                "email": "string",
+                "country": "string"
+            }
+        ]
+    }
+]
